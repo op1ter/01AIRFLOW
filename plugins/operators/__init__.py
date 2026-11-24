@@ -1,0 +1,1 @@
+"""Operadores customizados do projeto."""
